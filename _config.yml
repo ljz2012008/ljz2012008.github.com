@@ -4,8 +4,8 @@
 
 url: http://ljz2012008.github.io
 title: Taylor Li Tour
-subtitle: A blogging framework for hackers.
-author: Your Name
+subtitle: '"Thanks for your sharing!"'
+author: Taylor Li
 simple_search: https://www.google.com/search
 description:
 
@@ -17,9 +17,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: ljz2012008@gmail.com
 # RSS feeds can list your email address if you like
-email:
+email: ljz2012008@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
